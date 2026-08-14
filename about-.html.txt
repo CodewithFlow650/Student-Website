@@ -6,6 +6,6 @@
         <title>Student's Website</title>
     </head>
     <body>
-        <h1>Hey, Welcome to our very own students Website</h1>
+        <h1>Hey, Welcome to our very own students Website</h1> <img src="cssimage.jpg"
     </body>
 </html>
